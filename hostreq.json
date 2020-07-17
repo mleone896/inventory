@@ -1,7 +1,0 @@
-{
-  "subnet_id": "subnet-11fc8f67",
-  "primary_role": "zone",
-  "environment": "production",
-  "pool": "sre"
-}
-
